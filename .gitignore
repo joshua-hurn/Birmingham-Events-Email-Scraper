@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/ytmusic_auth.json
+data/events.db
+output/
