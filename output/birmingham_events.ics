@@ -1,0 +1,271 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Birmingham Event Curator//brave-fermi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Curated Birmingham, AL Music, Comedy Podcasts, Food & Theater
+  Events
+X-WR-CALNAME:Birmingham Curated Events
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+SUMMARY:🎵 The Lemon Twigs Live at Saturn @ Saturn Birmingham
+DTSTART;TZID=America/Chicago:20261208T200000
+DTEND;TZID=America/Chicago:20261208T230000
+DTSTAMP:20261122T145058Z
+UID:bham-event-16f6e2baff50ffbc@brave-fermi.local
+CATEGORIES:Live Music
+DESCRIPTION:Category: Live Music\nWhy it matched: Harmonic\, retro-pop ind
+ ie craftsmanship that fans of Beck\, The Flaming Lips\, Djo\, and The Stro
+ kes will thoroughly enjoy.\nPrice: $32.60\n\nCritically acclaimed brothers
+  Brian and Michael D'Addario bring their lush baroque pop\, vintage 60s/70
+ s harmonies\, and dynamic rock performance to Avondale's premier room.\n\n
+ Tickets / Info: https://saturnbirmingham.com/calendar/
+LOCATION:Saturn Birmingham\, Birmingham\, AL
+URL:https://saturnbirmingham.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✨ The Moth Open Mic StorySLAM: Home for the Holidays @ Saturn Bi
+ rmingham
+DTSTART;TZID=America/Chicago:20261207T190000
+DTEND;TZID=America/Chicago:20261207T213000
+DTSTAMP:20261122T145058Z
+UID:bham-event-2c4b0204cc41119a@brave-fermi.local
+CATEGORIES:Local & Fun
+DESCRIPTION:Category: Local & Fun\nWhy it matched: Pairs the authentic liv
+ e narrative energy beloved by podcast listeners with the laid-back atmosph
+ ere of Saturn Birmingham.\nPrice: $20.50\n\nThe world-famous open mic stor
+ ytelling competition lands at Saturn. Ten storytellers are picked at rando
+ m to tell a 5-minute true story on the theme 'Home for the Holidays'.\n\nT
+ ickets / Info: https://saturnbirmingham.com/calendar/
+LOCATION:Saturn Birmingham\, Birmingham\, AL
+URL:https://saturnbirmingham.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎙️ Ali Siddiq: The Custom Fit Tour @ BJCC Concert Hall
+DTSTART;TZID=America/Chicago:20261204T190000
+DTEND;TZID=America/Chicago:20261204T213000
+DTSTAMP:20261122T145058Z
+UID:bham-event-63f79b585f56733d@brave-fermi.local
+CATEGORIES:Comedy & Podcasts
+DESCRIPTION:Category: Comedy & Podcasts\nWhy it matched: Masterful narrati
+ ve comedian and favorite of the podcast comedy scene\; fits right in with 
+ your appreciation of Dan Soder and Shane Gillis.\nPrice: $35 - $85\n\nFame
+ d stand-up comedian and storyteller Ali Siddiq brings his sold-out nationw
+ ide theater tour to the BJCC Concert Hall for an intimate\, phone-free eve
+ ning.\n\nTickets / Info: https://www.bjcc.org/
+LOCATION:BJCC Concert Hall\, Birmingham\, AL
+URL:https://www.bjcc.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍽️ Open Up to Wonder: Pepper Place Holiday Open House & Soir
+ ée @ Pepper Place
+DTSTART;TZID=America/Chicago:20261203T160000
+DTEND;TZID=America/Chicago:20261203T190000
+DTSTAMP:20261122T145058Z
+UID:bham-event-5267a1e679b82580@brave-fermi.local
+CATEGORIES:Food & Drink
+DESCRIPTION:Category: Food & Drink\nWhy it matched: Directly highlights yo
+ ur favorite culinary hub Pepper Place\, offering food\, drinks\, and craft
+  culture all in one evening.\nPrice: Free Admission\n\nPepper Place's hist
+ oric brick district transforms for an evening of illuminated courtyards\, 
+ specialty culinary bites from local establishments\, craft cocktail pop-up
+ s\, and live music.\n\nTickets / Info: https://pepperplacebham.com/
+LOCATION:Pepper Place\, Birmingham\, AL
+URL:https://pepperplacebham.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎵 Shadowgrass Live at Iron City @ Iron City Bham
+DTSTART;TZID=America/Chicago:20261204T200000
+DTEND;TZID=America/Chicago:20261204T230000
+DTSTAMP:20261122T145058Z
+UID:bham-event-7692a263aacb0e3b@brave-fermi.local
+CATEGORIES:Live Music
+DESCRIPTION:Category: Live Music\nWhy it matched: High-octane progressive 
+ jamgrass that directly connects with your appreciation for moe.\, The Avet
+ t Brothers\, and Jason Isbell.\nPrice: $20 - $25\n\nRising stars of progre
+ ssive acoustic music\, Shadowgrass blends blistering bluegrass picking wit
+ h exploratory jam rock improvisation.\n\nTickets / Info: https://ironcityb
+ ham.com/events/
+LOCATION:Iron City Bham\, Birmingham\, AL
+URL:https://ironcitybham.com/events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 Holiday Spectacular 2026 @ Red Mountain Theatre
+DTSTART;TZID=America/Chicago:20261203T193000
+DTEND;TZID=America/Chicago:20261203T214500
+DTSTAMP:20261122T145058Z
+UID:bham-event-1bb070838839912e@brave-fermi.local
+CATEGORIES:Theater & Plays
+DESCRIPTION:Category: Theater & Plays\nWhy it matched: The quintessential 
+ holiday theater tradition at your favorite theatrical venue\, Red Mountain
+  Theatre.\nPrice: $40 - $65\n\nRed Mountain Theatre's signature holiday pr
+ oduction returns with 75 performers\, a live brass and rhythm ensemble\, a
+ nd Broadway-caliber staging.\n\nTickets / Info: https://redmountaintheatre
+ .org/
+LOCATION:Red Mountain Theatre\, Birmingham\, AL
+URL:https://redmountaintheatre.org/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎙️ Joe Machi Live in The Broadway Room @ Stardome Comedy Club
+DTSTART;TZID=America/Chicago:20261203T193000
+DTEND;TZID=America/Chicago:20261203T211500
+DTSTAMP:20261122T145058Z
+UID:bham-event-ec6add5764c6f714@brave-fermi.local
+CATEGORIES:Comedy & Podcasts
+DESCRIPTION:Category: Comedy & Podcasts\nWhy it matched: Frequent guest on
+  late night and comedian podcasts\, matching the dry\, intelligent humor o
+ f Mark Normand\, Sam Morril\, and Rory Scovel.\nPrice: $25 - $30 (2-item m
+ in)\n\nAcclaimed stand-up Joe Machi brings his distinct cadence\, razor-sh
+ arp one-liners\, and signature awkward wit to Hoover's legendary comedy sh
+ owroom.\n\nTickets / Info: https://www.stardome.com/
+LOCATION:Stardome Comedy Club\, Birmingham\, AL
+URL:https://www.stardome.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎵 Winston Ramble with The Stepdads @ Saturn Birmingham
+DTSTART;TZID=America/Chicago:20261125T200000
+DTEND;TZID=America/Chicago:20261125T230000
+DTSTAMP:20261122T145058Z
+UID:bham-event-e00acfebe2062d66@brave-fermi.local
+CATEGORIES:Live Music
+DESCRIPTION:Category: Live Music\nWhy it matched: Raucous roots-rock and S
+ outhern soul in the spirit of The Alabama Shakes and Jason Isbell.\nPrice:
+  $23.50\n\nA pre-Thanksgiving Southern rock and folk showcase featuring re
+ gional powerhouse Winston Ramble with support from The Stepdads.\n\nTicket
+ s / Info: https://saturnbirmingham.com/calendar/
+LOCATION:Saturn Birmingham\, Birmingham\, AL
+URL:https://saturnbirmingham.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✨ Alabama Theatre Holiday Film Series: White Christmas & The Mig
+ hty Wurlitzer Organ @ Alabama Theatre
+DTSTART;TZID=America/Chicago:20261211T190000
+DTEND;TZID=America/Chicago:20261211T214500
+DTSTAMP:20261122T145058Z
+UID:bham-event-075b8838a0ff6293@brave-fermi.local
+CATEGORIES:Local & Fun
+DESCRIPTION:Category: Local & Fun\nWhy it matched: Iconic local cultural e
+ xperience celebrating Birmingham's architectural crown jewel\, the Alabama
+  Theatre.\nPrice: $15.00\n\nA quintessential Birmingham tradition kicked o
+ ff by a crowd sing-along accompanied by the historic theatre's Mighty Wurl
+ itzer pipe organ\, followed by the classic film on the silver screen.\n\nT
+ ickets / Info: https://alabamatheatre.com/events/
+LOCATION:Alabama Theatre\, Birmingham\, AL
+URL:https://alabamatheatre.com/events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍽️ Avondale Holiday Market @ Avondale Brewing Company
+DTSTART;TZID=America/Chicago:20261212T130000
+DTEND;TZID=America/Chicago:20261212T170000
+DTSTAMP:20261122T145058Z
+UID:bham-event-4282bda6982f8f8c@brave-fermi.local
+CATEGORIES:Food & Drink
+DESCRIPTION:Category: Food & Drink\nWhy it matched: Takes place at Avondal
+ e Brewing Company\, combining great craft beer with local culinary artisan
+ s.\nPrice: Free Admission\n\nAn afternoon gathering on the Avondale ground
+ s pairing local craft brews with food trucks\, specialty snacks\, and loca
+ l makers.\n\nTickets / Info: https://www.avondalebrewing.com/calendar-tick
+ ets
+LOCATION:Avondale Brewing Company\, Birmingham\, AL
+URL:https://www.avondalebrewing.com/calendar-tickets
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎵 Cracker: 30 Years of 'The Golden Age' @ WorkPlay
+DTSTART;TZID=America/Chicago:20261219T200000
+DTEND;TZID=America/Chicago:20261219T230000
+DTSTAMP:20261122T145058Z
+UID:bham-event-cfde20171f4f4024@brave-fermi.local
+CATEGORIES:Live Music
+DESCRIPTION:Category: Live Music\nWhy it matched: Rootsy 90s alternative r
+ ock vibes directly adjacent to Blues Traveler and The Goo Goo Dolls.\nPric
+ e: $27.50\n\nAlternative rock and Americana stalwarts Cracker play Birming
+ ham to celebrate the three-decade milestone of their landmark album 'The G
+ olden Age'.\n\nTickets / Info: https://workplay.com/events/
+LOCATION:WorkPlay\, Birmingham\, AL
+URL:https://workplay.com/events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🍽️ 2026 Taste of Korea Birmingham: Thanksgiving Edition @ Tas
+ te of Korea Grounds (1185 Center Point Pkwy)
+DTSTART;TZID=America/Chicago:20261122T113000
+DTEND;TZID=America/Chicago:20261122T170000
+DTSTAMP:20261122T145058Z
+UID:bham-event-037a94031555e518@brave-fermi.local
+CATEGORIES:Food & Drink
+DESCRIPTION:Category: Food & Drink\nWhy it matched: One of Birmingham's mo
+ st flavorful community food festivals\, perfect for foodies looking for di
+ verse authentic dishes.\nPrice: Free Admission (Food purchases separate)\n
+ \nA bustling celebration of Korean culture and gastronomy featuring region
+ al vendors\, street food stalls (bulgogi\, tteokbokki\, Korean fried chick
+ en)\, and K-pop festivities.\n\nTickets / Info: https://www.inbirmingham.c
+ om/events/
+LOCATION:Taste of Korea Grounds (1185 Center Point Pkwy)\, Birmingham\, AL
+URL:https://www.inbirmingham.com/events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 It's A Wonderful Life: LIVE! @ Terrific New Theatre
+DTSTART;TZID=America/Chicago:20261210T193000
+DTEND;TZID=America/Chicago:20261210T213000
+DTSTAMP:20261122T145058Z
+UID:bham-event-59b18b740c5de727@brave-fermi.local
+CATEGORIES:Theater & Plays
+DESCRIPTION:Category: Theater & Plays\nWhy it matched: Stellar intimate th
+ eater production at Terrific New Theatre\, honoring classic stage craft an
+ d inventive foley artistry.\nPrice: $25 - $35\n\nRavenswood Productions br
+ ings the beloved 1946 holiday tale alive as a vintage 1940s live radio bro
+ adcast on stage at TNT's newly inaugurated theater space.\n\nTickets / Inf
+ o: https://terrificnewtheatre.com/
+LOCATION:Terrific New Theatre\, Birmingham\, AL
+URL:https://terrificnewtheatre.com/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎵 Preservation Hall Jazz Band: Creole Christmas @ Alys Stephens
+  Center
+DTSTART;TZID=America/Chicago:20261220T190000
+DTEND;TZID=America/Chicago:20261220T213000
+DTSTAMP:20261122T145058Z
+UID:bham-event-593775336acd3174@brave-fermi.local
+CATEGORIES:Live Music
+DESCRIPTION:Category: Live Music\nWhy it matched: Incredible musicianship 
+ and deep Southern roots groove that jam band and blues enthusiasts will ap
+ preciate.\nPrice: $45 - $65\n\nLegendary New Orleans ensemble Preservation
+  Hall Jazz Band brings a joyful blend of traditional brass\, soul\, and fe
+ stive standards to the Jemison Concert Hall.\n\nTickets / Info: https://ww
+ w.alysstephens.org/events/
+LOCATION:Alys Stephens Center\, Birmingham\, AL
+URL:https://www.alysstephens.org/events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎭 The Magic City Nutcracker @ Lyric Theatre
+DTSTART;TZID=America/Chicago:20261204T190000
+DTEND;TZID=America/Chicago:20261204T211500
+DTSTAMP:20261122T145058Z
+UID:bham-event-cb78db2b6a2a73ca@brave-fermi.local
+CATEGORIES:Theater & Plays
+DESCRIPTION:Category: Theater & Plays\nWhy it matched: Classic seasonal st
+ age performance hosted in one of Birmingham's most acoustically stunning v
+ enues\, The Lyric Theatre.\nPrice: $25 - $48\n\nThe 13th annual community 
+ Nutcracker ballet production\, uniting regional dancers on the historic 19
+ 14 vaudeville stage of the Lyric.\n\nTickets / Info: https://lyricbham.com
+ /events/
+LOCATION:Lyric Theatre\, Birmingham\, AL
+URL:https://lyricbham.com/events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎙️ HaHa Davis: We Them Ones Comedy Weekend @ Stardome Comedy 
+ Club
+DTSTART;TZID=America/Chicago:20261127T193000
+DTEND;TZID=America/Chicago:20261127T213000
+DTSTAMP:20261122T145058Z
+UID:bham-event-e7f53268dd0946ed@brave-fermi.local
+CATEGORIES:Comedy & Podcasts
+DESCRIPTION:Category: Comedy & Podcasts\nWhy it matched: Great live weeken
+ d stand-up show at Birmingham's flagship comedy venue for anyone following
+  modern touring comics.\nPrice: $35 - $45 (2-item min)\n\nSocial media sen
+ sation and touring comic HaHa Davis takes over Stardome for Thanksgiving w
+ eekend with high-energy stand-up.\n\nTickets / Info: https://www.stardome.
+ com/
+LOCATION:Stardome Comedy Club\, Birmingham\, AL
+URL:https://www.stardome.com/
+END:VEVENT
+END:VCALENDAR
